@@ -1,17 +1,5 @@
 ﻿<Project>
   <ItemGroup>
-    <StaticWebAssetEndpoint Include="_content/GaleriaOnline.WebApi/imagens/b30e7d6c-8d39-4127-9b6b-de20ccff8385.k7k90zbnep.png">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\imagens\b30e7d6c-8d39-4127-9b6b-de20ccff8385.png'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"k7k90zbnep"},{"Name":"integrity","Value":"sha256-cFW1ROKPviWLGhaDkDD0ShzJS3wtiGSxV5JZFt0gdKI="},{"Name":"label","Value":"_content/GaleriaOnline.WebApi/imagens/b30e7d6c-8d39-4127-9b6b-de20ccff8385.png"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"176358"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022cFW1ROKPviWLGhaDkDD0ShzJS3wtiGSxV5JZFt0gdKI=\u0022"},{"Name":"Last-Modified","Value":"Thu, 21 Aug 2025 11:43:37 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/GaleriaOnline.WebApi/imagens/b30e7d6c-8d39-4127-9b6b-de20ccff8385.png">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\imagens\b30e7d6c-8d39-4127-9b6b-de20ccff8385.png'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-cFW1ROKPviWLGhaDkDD0ShzJS3wtiGSxV5JZFt0gdKI="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"176358"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022cFW1ROKPviWLGhaDkDD0ShzJS3wtiGSxV5JZFt0gdKI=\u0022"},{"Name":"Last-Modified","Value":"Thu, 21 Aug 2025 11:43:37 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/GaleriaOnline.WebApi/imagens/c524bc95-5e63-4108-94a6-e04bf89264d7.i7q0o9cx0w.png">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\imagens\c524bc95-5e63-4108-94a6-e04bf89264d7.png'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
@@ -23,18 +11,6 @@
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-Up/d\u002Bs8BCK2UyvnqjYUr30Lbmlg6FjGwr3epLvXO76I="}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"221197"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022Up/d\u002Bs8BCK2UyvnqjYUr30Lbmlg6FjGwr3epLvXO76I=\u0022"},{"Name":"Last-Modified","Value":"Thu, 21 Aug 2025 11:28:22 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/GaleriaOnline.WebApi/imagens/f83f5d24-a519-4e38-812f-3209ad9909d8.dewu56jc2k.png">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\imagens\f83f5d24-a519-4e38-812f-3209ad9909d8.png'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"dewu56jc2k"},{"Name":"integrity","Value":"sha256-hSwB/FzzLl9eXIAXAPXpqek8uKrwKhALdSXv\u002BuarDCw="},{"Name":"label","Value":"_content/GaleriaOnline.WebApi/imagens/f83f5d24-a519-4e38-812f-3209ad9909d8.png"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"178303"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022hSwB/FzzLl9eXIAXAPXpqek8uKrwKhALdSXv\u002BuarDCw=\u0022"},{"Name":"Last-Modified","Value":"Tue, 19 Aug 2025 18:51:25 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/GaleriaOnline.WebApi/imagens/f83f5d24-a519-4e38-812f-3209ad9909d8.png">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\imagens\f83f5d24-a519-4e38-812f-3209ad9909d8.png'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-hSwB/FzzLl9eXIAXAPXpqek8uKrwKhALdSXv\u002BuarDCw="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"178303"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022hSwB/FzzLl9eXIAXAPXpqek8uKrwKhALdSXv\u002BuarDCw=\u0022"},{"Name":"Last-Modified","Value":"Tue, 19 Aug 2025 18:51:25 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
   </ItemGroup>
 </Project>
